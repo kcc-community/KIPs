@@ -1,5 +1,7 @@
 # KIPs
 
+[![Join the chat at https://gitter.im/kcc-community/governance](https://badges.gitter.im/kcc-community/governance.svg)](https://gitter.im/kcc-community/governance?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 KCC Improvement Proposals (KIPs) describe standards for the KCC platform, including Chain, Dex, and Dapps.
 
 WIP: A browsable version of all current and draft KIPs can be found in this repository.
