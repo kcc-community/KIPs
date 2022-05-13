@@ -4,6 +4,8 @@ KCC Improvement Proposals (KIPs) describe standards for the KCC platform, includ
 
 WIP: A browsable version of all current and draft KIPs can be found in this repository.
 
+- [KIP-2](./kip-2.md): aims to share the mining rewards of validators with their stakers
+
 # Contributing
 
  1. Review [KIP-1](kip-1.md).
